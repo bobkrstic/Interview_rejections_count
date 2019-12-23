@@ -3,7 +3,7 @@ import app from "firebase/app";
 import "firebase/auth";
 import "firebase/database";
 
-require("dotenv").config();
+// require("dotenv").config();
 
 // var firebaseConfig = {
 //   apiKey: "AIzaSyATwOKvHYIVmryHs7w-cuzewqMXkcsjT1k",
